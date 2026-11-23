@@ -1,0 +1,574 @@
+{
+  "updatedAt": "2026-11-23T16:57:37.781981+00:00",
+  "source": "naver-datalab-hub",
+  "period": {
+    "start": "2026-11-08",
+    "end": "2026-11-21"
+  },
+  "keywords": [
+    {
+      "keyword": "크리스마스",
+      "recentAvg": 40.16,
+      "prevAvg": 32.26,
+      "delta": 7.91,
+      "ratio": 1.25
+    },
+    {
+      "keyword": "크리스마스 트리",
+      "recentAvg": 95.01,
+      "prevAvg": 79.94,
+      "delta": 15.07,
+      "ratio": 1.19
+    },
+    {
+      "keyword": "산타",
+      "recentAvg": 3.14,
+      "prevAvg": 2.37,
+      "delta": 0.77,
+      "ratio": 1.32
+    },
+    {
+      "keyword": "연말",
+      "recentAvg": 1.84,
+      "prevAvg": 1.48,
+      "delta": 0.36,
+      "ratio": 1.24
+    },
+    {
+      "keyword": "새해",
+      "recentAvg": 0.74,
+      "prevAvg": 0.57,
+      "delta": 0.17,
+      "ratio": 1.3
+    },
+    {
+      "keyword": "신년",
+      "recentAvg": 1.99,
+      "prevAvg": 1.58,
+      "delta": 0.41,
+      "ratio": 1.26
+    },
+    {
+      "keyword": "설날",
+      "recentAvg": 84.23,
+      "prevAvg": 73.73,
+      "delta": 10.5,
+      "ratio": 1.14
+    },
+    {
+      "keyword": "발렌타인",
+      "recentAvg": 26.97,
+      "prevAvg": 28.79,
+      "delta": -1.82,
+      "ratio": 0.94
+    },
+    {
+      "keyword": "졸업",
+      "recentAvg": 28.43,
+      "prevAvg": 42.11,
+      "delta": -13.67,
+      "ratio": 0.68
+    },
+    {
+      "keyword": "입학",
+      "recentAvg": 1.03,
+      "prevAvg": 1.13,
+      "delta": -0.11,
+      "ratio": 0.91
+    },
+    {
+      "keyword": "어린이날",
+      "recentAvg": 12.33,
+      "prevAvg": 11.94,
+      "delta": 0.39,
+      "ratio": 1.03
+    },
+    {
+      "keyword": "어버이날",
+      "recentAvg": 26.14,
+      "prevAvg": 26.42,
+      "delta": -0.27,
+      "ratio": 0.99
+    },
+    {
+      "keyword": "스승의날",
+      "recentAvg": 28.14,
+      "prevAvg": 28.53,
+      "delta": -0.39,
+      "ratio": 0.99
+    },
+    {
+      "keyword": "추석",
+      "recentAvg": 74.15,
+      "prevAvg": 78.77,
+      "delta": -4.62,
+      "ratio": 0.94
+    },
+    {
+      "keyword": "할로윈",
+      "recentAvg": 45.3,
+      "prevAvg": 73.25,
+      "delta": -27.95,
+      "ratio": 0.62
+    },
+    {
+      "keyword": "빼빼로데이",
+      "recentAvg": 0.01,
+      "prevAvg": 1.08,
+      "delta": -1.06,
+      "ratio": 0.01
+    },
+    {
+      "keyword": "수능",
+      "recentAvg": 25.57,
+      "prevAvg": 5.09,
+      "delta": 20.48,
+      "ratio": 5.03
+    },
+    {
+      "keyword": "복날",
+      "recentAvg": 0.0,
+      "prevAvg": 0.0,
+      "delta": -0.0,
+      "ratio": 0.93
+    },
+    {
+      "keyword": "눈사람",
+      "recentAvg": 0.02,
+      "prevAvg": 0.02,
+      "delta": 0.01,
+      "ratio": 1.35
+    },
+    {
+      "keyword": "눈송이",
+      "recentAvg": 0.0,
+      "prevAvg": 0.0,
+      "delta": 0.0,
+      "ratio": 1.51
+    },
+    {
+      "keyword": "스티커",
+      "recentAvg": 38.32,
+      "prevAvg": 35.27,
+      "delta": 3.04,
+      "ratio": 1.09
+    },
+    {
+      "keyword": "일러스트",
+      "recentAvg": 21.49,
+      "prevAvg": 22.35,
+      "delta": -0.87,
+      "ratio": 0.96
+    },
+    {
+      "keyword": "클립아트",
+      "recentAvg": 4.43,
+      "prevAvg": 4.3,
+      "delta": 0.12,
+      "ratio": 1.03
+    },
+    {
+      "keyword": "손그림",
+      "recentAvg": 1.57,
+      "prevAvg": 1.69,
+      "delta": -0.12,
+      "ratio": 0.93
+    },
+    {
+      "keyword": "캐릭터",
+      "recentAvg": 82.62,
+      "prevAvg": 93.01,
+      "delta": -10.39,
+      "ratio": 0.89
+    },
+    {
+      "keyword": "이모티콘",
+      "recentAvg": 77.64,
+      "prevAvg": 80.16,
+      "delta": -2.52,
+      "ratio": 0.97
+    },
+    {
+      "keyword": "배경",
+      "recentAvg": 18.31,
+      "prevAvg": 19.44,
+      "delta": -1.13,
+      "ratio": 0.94
+    },
+    {
+      "keyword": "패턴",
+      "recentAvg": 10.8,
+      "prevAvg": 11.16,
+      "delta": -0.36,
+      "ratio": 0.97
+    },
+    {
+      "keyword": "프레임",
+      "recentAvg": 37.44,
+      "prevAvg": 35.01,
+      "delta": 2.44,
+      "ratio": 1.07
+    },
+    {
+      "keyword": "뱃지",
+      "recentAvg": 18.63,
+      "prevAvg": 20.28,
+      "delta": -1.65,
+      "ratio": 0.92
+    },
+    {
+      "keyword": "엽서",
+      "recentAvg": 0.3,
+      "prevAvg": 0.27,
+      "delta": 0.03,
+      "ratio": 1.12
+    },
+    {
+      "keyword": "카드",
+      "recentAvg": 1.73,
+      "prevAvg": 0.82,
+      "delta": 0.92,
+      "ratio": 2.12
+    },
+    {
+      "keyword": "포스터",
+      "recentAvg": 0.54,
+      "prevAvg": 0.57,
+      "delta": -0.03,
+      "ratio": 0.95
+    },
+    {
+      "keyword": "달력",
+      "recentAvg": 77.86,
+      "prevAvg": 76.17,
+      "delta": 1.69,
+      "ratio": 1.02
+    },
+    {
+      "keyword": "다이어리",
+      "recentAvg": 3.62,
+      "prevAvg": 3.3,
+      "delta": 0.32,
+      "ratio": 1.1
+    },
+    {
+      "keyword": "플래너",
+      "recentAvg": 19.82,
+      "prevAvg": 18.79,
+      "delta": 1.04,
+      "ratio": 1.06
+    },
+    {
+      "keyword": "마스킹테이프",
+      "recentAvg": 82.47,
+      "prevAvg": 79.62,
+      "delta": 2.85,
+      "ratio": 1.04
+    },
+    {
+      "keyword": "다꾸",
+      "recentAvg": 13.92,
+      "prevAvg": 13.55,
+      "delta": 0.37,
+      "ratio": 1.03
+    },
+    {
+      "keyword": "굿즈",
+      "recentAvg": 25.86,
+      "prevAvg": 28.02,
+      "delta": -2.16,
+      "ratio": 0.92
+    },
+    {
+      "keyword": "폰꾸미기",
+      "recentAvg": 1.22,
+      "prevAvg": 1.25,
+      "delta": -0.03,
+      "ratio": 0.97
+    },
+    {
+      "keyword": "겨울",
+      "recentAvg": 4.91,
+      "prevAvg": 4.26,
+      "delta": 0.65,
+      "ratio": 1.15
+    },
+    {
+      "keyword": "눈",
+      "recentAvg": 38.8,
+      "prevAvg": 15.81,
+      "delta": 22.99,
+      "ratio": 2.45
+    },
+    {
+      "keyword": "방한",
+      "recentAvg": 0.86,
+      "prevAvg": 0.95,
+      "delta": -0.09,
+      "ratio": 0.91
+    },
+    {
+      "keyword": "크리스마스 카드",
+      "recentAvg": 3.74,
+      "prevAvg": 2.26,
+      "delta": 1.48,
+      "ratio": 1.65
+    },
+    {
+      "keyword": "연말 파티",
+      "recentAvg": 0.67,
+      "prevAvg": 0.52,
+      "delta": 0.16,
+      "ratio": 1.3
+    },
+    {
+      "keyword": "송년회",
+      "recentAvg": 82.18,
+      "prevAvg": 64.08,
+      "delta": 18.1,
+      "ratio": 1.28
+    },
+    {
+      "keyword": "신년회",
+      "recentAvg": 12.36,
+      "prevAvg": 8.39,
+      "delta": 3.97,
+      "ratio": 1.47
+    },
+    {
+      "keyword": "해돋이",
+      "recentAvg": 16.21,
+      "prevAvg": 14.69,
+      "delta": 1.52,
+      "ratio": 1.1
+    },
+    {
+      "keyword": "겨울방학",
+      "recentAvg": 8.4,
+      "prevAvg": 6.18,
+      "delta": 2.22,
+      "ratio": 1.36
+    },
+    {
+      "keyword": "스키",
+      "recentAvg": 23.13,
+      "prevAvg": 18.89,
+      "delta": 4.24,
+      "ratio": 1.22
+    },
+    {
+      "keyword": "붕어빵",
+      "recentAvg": 23.69,
+      "prevAvg": 23.72,
+      "delta": -0.04,
+      "ratio": 1.0
+    },
+    {
+      "keyword": "호빵",
+      "recentAvg": 10.06,
+      "prevAvg": 9.36,
+      "delta": 0.7,
+      "ratio": 1.07
+    },
+    {
+      "keyword": "핫팩",
+      "recentAvg": 56.16,
+      "prevAvg": 52.46,
+      "delta": 3.7,
+      "ratio": 1.07
+    },
+    {
+      "keyword": "손난로",
+      "recentAvg": 12.86,
+      "prevAvg": 12.93,
+      "delta": -0.08,
+      "ratio": 0.99
+    },
+    {
+      "keyword": "코코아",
+      "recentAvg": 1.96,
+      "prevAvg": 1.88,
+      "delta": 0.07,
+      "ratio": 1.04
+    },
+    {
+      "keyword": "귤",
+      "recentAvg": 63.19,
+      "prevAvg": 48.34,
+      "delta": 14.85,
+      "ratio": 1.31
+    },
+    {
+      "keyword": "김장",
+      "recentAvg": 17.18,
+      "prevAvg": 13.87,
+      "delta": 3.31,
+      "ratio": 1.24
+    },
+    {
+      "keyword": "동지",
+      "recentAvg": 49.14,
+      "prevAvg": 38.4,
+      "delta": 10.73,
+      "ratio": 1.28
+    },
+    {
+      "keyword": "크리스마스 선물",
+      "recentAvg": 21.42,
+      "prevAvg": 13.46,
+      "delta": 7.96,
+      "ratio": 1.59
+    },
+    {
+      "keyword": "연말정산",
+      "recentAvg": 30.2,
+      "prevAvg": 28.88,
+      "delta": 1.32,
+      "ratio": 1.05
+    }
+  ],
+  "risers": [
+    {
+      "keyword": "눈",
+      "recentAvg": 38.8,
+      "prevAvg": 15.81,
+      "delta": 22.99,
+      "ratio": 2.45
+    },
+    {
+      "keyword": "수능",
+      "recentAvg": 25.57,
+      "prevAvg": 5.09,
+      "delta": 20.48,
+      "ratio": 5.03
+    },
+    {
+      "keyword": "송년회",
+      "recentAvg": 82.18,
+      "prevAvg": 64.08,
+      "delta": 18.1,
+      "ratio": 1.28
+    },
+    {
+      "keyword": "크리스마스 트리",
+      "recentAvg": 95.01,
+      "prevAvg": 79.94,
+      "delta": 15.07,
+      "ratio": 1.19
+    },
+    {
+      "keyword": "귤",
+      "recentAvg": 63.19,
+      "prevAvg": 48.34,
+      "delta": 14.85,
+      "ratio": 1.31
+    },
+    {
+      "keyword": "동지",
+      "recentAvg": 49.14,
+      "prevAvg": 38.4,
+      "delta": 10.73,
+      "ratio": 1.28
+    },
+    {
+      "keyword": "설날",
+      "recentAvg": 84.23,
+      "prevAvg": 73.73,
+      "delta": 10.5,
+      "ratio": 1.14
+    },
+    {
+      "keyword": "크리스마스 선물",
+      "recentAvg": 21.42,
+      "prevAvg": 13.46,
+      "delta": 7.96,
+      "ratio": 1.59
+    },
+    {
+      "keyword": "크리스마스",
+      "recentAvg": 40.16,
+      "prevAvg": 32.26,
+      "delta": 7.91,
+      "ratio": 1.25
+    },
+    {
+      "keyword": "스키",
+      "recentAvg": 23.13,
+      "prevAvg": 18.89,
+      "delta": 4.24,
+      "ratio": 1.22
+    }
+  ],
+  "hottest": [
+    {
+      "keyword": "크리스마스 트리",
+      "recentAvg": 95.01,
+      "prevAvg": 79.94,
+      "delta": 15.07,
+      "ratio": 1.19
+    },
+    {
+      "keyword": "설날",
+      "recentAvg": 84.23,
+      "prevAvg": 73.73,
+      "delta": 10.5,
+      "ratio": 1.14
+    },
+    {
+      "keyword": "캐릭터",
+      "recentAvg": 82.62,
+      "prevAvg": 93.01,
+      "delta": -10.39,
+      "ratio": 0.89
+    },
+    {
+      "keyword": "마스킹테이프",
+      "recentAvg": 82.47,
+      "prevAvg": 79.62,
+      "delta": 2.85,
+      "ratio": 1.04
+    },
+    {
+      "keyword": "송년회",
+      "recentAvg": 82.18,
+      "prevAvg": 64.08,
+      "delta": 18.1,
+      "ratio": 1.28
+    },
+    {
+      "keyword": "달력",
+      "recentAvg": 77.86,
+      "prevAvg": 76.17,
+      "delta": 1.69,
+      "ratio": 1.02
+    },
+    {
+      "keyword": "이모티콘",
+      "recentAvg": 77.64,
+      "prevAvg": 80.16,
+      "delta": -2.52,
+      "ratio": 0.97
+    },
+    {
+      "keyword": "추석",
+      "recentAvg": 74.15,
+      "prevAvg": 78.77,
+      "delta": -4.62,
+      "ratio": 0.94
+    },
+    {
+      "keyword": "귤",
+      "recentAvg": 63.19,
+      "prevAvg": 48.34,
+      "delta": 14.85,
+      "ratio": 1.31
+    },
+    {
+      "keyword": "핫팩",
+      "recentAvg": 56.16,
+      "prevAvg": 52.46,
+      "delta": 3.7,
+      "ratio": 1.07
+    }
+  ]
+}
