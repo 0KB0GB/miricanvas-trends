@@ -1,0 +1,36 @@
+# 저장소 안에 넣는 위치: .github/workflows/datalab-daily.yml
+# 매일 아침 7시(KST)에 fetch_datalab.py를 실행해
+# trends/datalab.json을 갱신하고 저장소에 다시 저장합니다.
+name: datalab-daily
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 매일 07:00 KST (22:00 UTC)
+  workflow_dispatch: # Actions 탭에서 수동 실행도 가능
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch DataLab trends
+        env:
+          NAVER_HUB_KEY_ID: ${{ secrets.NAVER_HUB_KEY_ID }}
+          NAVER_HUB_KEY: ${{ secrets.NAVER_HUB_KEY }}
+        run: python fetch_datalab.py
+
+      - name: Commit trends JSON
+        run: |
+          git config user.name "datalab-bot"
+          git config user.email "datalab-bot@users.noreply.github.com"
+          git add trends/datalab.json
+          git diff --cached --quiet || git commit -m "datalab $(date -u +%F)"
+          git push
