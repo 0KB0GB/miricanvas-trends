@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T12:34:41.283077+00:00",
+  "updatedAt": "2026-11-25T23:08:28.189313+00:00",
   "source": "naver-datalab-hub+google-trends",
   "period": {
     "start": "2026-11-10",
@@ -362,16 +362,51 @@
     },
     {
       "keyword": "한국대학신문",
-      "recentAvg": 44.12,
-      "prevAvg": 42.86,
-      "delta": 1.26,
+      "recentAvg": 0.54,
+      "prevAvg": 0.53,
+      "delta": 0.02,
       "ratio": 1.03
     },
     {
       "keyword": "디트로이트 타이거스",
-      "recentAvg": 28.57,
-      "prevAvg": 20.76,
-      "delta": 7.81,
+      "recentAvg": 0.35,
+      "prevAvg": 0.25,
+      "delta": 0.1,
+      "ratio": 1.38
+    },
+    {
+      "keyword": "최우제",
+      "recentAvg": 49.3,
+      "prevAvg": 7.64,
+      "delta": 41.66,
+      "ratio": 6.45
+    },
+    {
+      "keyword": "백화점",
+      "recentAvg": 6.14,
+      "prevAvg": 5.45,
+      "delta": 0.69,
+      "ratio": 1.13
+    },
+    {
+      "keyword": "은퇴 요원 관리팀",
+      "recentAvg": 4.04,
+      "prevAvg": 3.5,
+      "delta": 0.54,
+      "ratio": 1.15
+    },
+    {
+      "keyword": "해군",
+      "recentAvg": 76.73,
+      "prevAvg": 75.44,
+      "delta": 1.29,
+      "ratio": 1.02
+    },
+    {
+      "keyword": "청룡영화상",
+      "recentAvg": 31.54,
+      "prevAvg": 22.87,
+      "delta": 8.67,
       "ratio": 1.38
     }
   ],
@@ -382,6 +417,13 @@
       "prevAvg": 12.6,
       "delta": 56.01,
       "ratio": 5.44
+    },
+    {
+      "keyword": "최우제",
+      "recentAvg": 49.3,
+      "prevAvg": 7.64,
+      "delta": 41.66,
+      "ratio": 6.45
     },
     {
       "keyword": "눈",
@@ -419,10 +461,10 @@
       "ratio": 1.19
     },
     {
-      "keyword": "디트로이트 타이거스",
-      "recentAvg": 28.57,
-      "prevAvg": 20.76,
-      "delta": 7.81,
+      "keyword": "청룡영화상",
+      "recentAvg": 31.54,
+      "prevAvg": 22.87,
+      "delta": 8.67,
       "ratio": 1.38
     },
     {
@@ -438,13 +480,6 @@
       "prevAvg": 15.47,
       "delta": 5.58,
       "ratio": 1.36
-    },
-    {
-      "keyword": "붕어빵",
-      "recentAvg": 26.08,
-      "prevAvg": 21.56,
-      "delta": 4.51,
-      "ratio": 1.21
     }
   ],
   "hottest": [
@@ -461,6 +496,13 @@
       "prevAvg": 69.6,
       "delta": 12.89,
       "ratio": 1.19
+    },
+    {
+      "keyword": "해군",
+      "recentAvg": 76.73,
+      "prevAvg": 75.44,
+      "delta": 1.29,
+      "ratio": 1.02
     },
     {
       "keyword": "이모티콘",
@@ -505,18 +547,11 @@
       "ratio": 5.44
     },
     {
-      "keyword": "한국대학신문",
-      "recentAvg": 44.12,
-      "prevAvg": 42.86,
-      "delta": 1.26,
-      "ratio": 1.03
-    },
-    {
-      "keyword": "눈",
-      "recentAvg": 39.99,
-      "prevAvg": 6.08,
-      "delta": 33.91,
-      "ratio": 6.57
+      "keyword": "최우제",
+      "recentAvg": 49.3,
+      "prevAvg": 7.64,
+      "delta": 41.66,
+      "ratio": 6.45
     }
   ],
   "weeklyKeywords": [
@@ -872,17 +907,52 @@
     },
     {
       "keyword": "한국대학신문",
-      "recentAvg": 68.17,
-      "prevAvg": 81.23,
-      "delta": -13.06,
+      "recentAvg": 0.95,
+      "prevAvg": 1.13,
+      "delta": -0.18,
       "ratio": 0.84
     },
     {
       "keyword": "디트로이트 타이거스",
-      "recentAvg": 35.61,
-      "prevAvg": 50.88,
-      "delta": -15.27,
+      "recentAvg": 0.5,
+      "prevAvg": 0.71,
+      "delta": -0.21,
       "ratio": 0.7
+    },
+    {
+      "keyword": "최우제",
+      "recentAvg": 32.2,
+      "prevAvg": 2.42,
+      "delta": 29.77,
+      "ratio": 13.29
+    },
+    {
+      "keyword": "백화점",
+      "recentAvg": 9.69,
+      "prevAvg": 11.7,
+      "delta": -2.02,
+      "ratio": 0.83
+    },
+    {
+      "keyword": "은퇴 요원 관리팀",
+      "recentAvg": 5.46,
+      "prevAvg": 4.51,
+      "delta": 0.95,
+      "ratio": 1.21
+    },
+    {
+      "keyword": "해군",
+      "recentAvg": 59.03,
+      "prevAvg": 74.54,
+      "delta": -15.51,
+      "ratio": 0.79
+    },
+    {
+      "keyword": "청룡영화상",
+      "recentAvg": 24.69,
+      "prevAvg": 25.12,
+      "delta": -0.43,
+      "ratio": 0.98
     }
   ],
   "weeklyRisers": [
@@ -922,6 +992,13 @@
       "ratio": 4.47
     },
     {
+      "keyword": "최우제",
+      "recentAvg": 32.2,
+      "prevAvg": 2.42,
+      "delta": 29.77,
+      "ratio": 13.29
+    },
+    {
       "keyword": "수능",
       "recentAvg": 33.24,
       "prevAvg": 3.76,
@@ -948,108 +1025,100 @@
       "prevAvg": 24.08,
       "delta": 9.49,
       "ratio": 1.39
-    },
-    {
-      "keyword": "프레임",
-      "recentAvg": 30.9,
-      "prevAvg": 24.08,
-      "delta": 6.81,
-      "ratio": 1.28
     }
   ],
   "discovered": [
     {
-      "keyword": "최우제",
-      "recentAvg": 49.3,
-      "prevAvg": 7.64,
-      "delta": 41.66,
-      "ratio": 6.45,
+      "keyword": "법학적성시험",
+      "recentAvg": 13.79,
+      "prevAvg": 1.6,
+      "delta": 12.18,
+      "ratio": 8.6,
       "traffic": null
     },
     {
-      "keyword": "백화점",
-      "recentAvg": 51.55,
-      "prevAvg": 45.8,
-      "delta": 5.75,
-      "ratio": 1.13,
+      "keyword": "조원태",
+      "recentAvg": 21.1,
+      "prevAvg": 11.1,
+      "delta": 10.0,
+      "ratio": 1.9,
       "traffic": null
     },
     {
-      "keyword": "은퇴 요원 관리팀",
-      "recentAvg": 33.88,
-      "prevAvg": 29.38,
-      "delta": 4.5,
-      "ratio": 1.15,
+      "keyword": "이강인",
+      "recentAvg": 16.04,
+      "prevAvg": 13.55,
+      "delta": 2.49,
+      "ratio": 1.18,
       "traffic": null
     },
     {
-      "keyword": "해군",
-      "recentAvg": 35.81,
-      "prevAvg": 35.21,
-      "delta": 0.6,
-      "ratio": 1.02,
+      "keyword": "당구",
+      "recentAvg": 13.83,
+      "prevAvg": 11.83,
+      "delta": 2.01,
+      "ratio": 1.17,
       "traffic": null
     },
     {
-      "keyword": "청룡영화상",
-      "recentAvg": 1.75,
-      "prevAvg": 1.27,
-      "delta": 0.48,
-      "ratio": 1.38,
+      "keyword": "한국대학신문",
+      "recentAvg": 0.24,
+      "prevAvg": 0.23,
+      "delta": 0.01,
+      "ratio": 1.03,
       "traffic": null
     },
     {
-      "keyword": "페이즈",
-      "recentAvg": 6.42,
-      "prevAvg": 6.16,
-      "delta": 0.26,
-      "ratio": 1.04,
+      "keyword": "삼성그룹",
+      "recentAvg": 5.05,
+      "prevAvg": 5.71,
+      "delta": -0.66,
+      "ratio": 0.89,
       "traffic": null
     },
     {
-      "keyword": "경주마",
-      "recentAvg": 0.13,
-      "prevAvg": 0.15,
-      "delta": -0.02,
+      "keyword": "허찬미",
+      "recentAvg": 18.21,
+      "prevAvg": 20.67,
+      "delta": -2.47,
+      "ratio": 0.88,
+      "traffic": null
+    },
+    {
+      "keyword": "알테오젠",
+      "recentAvg": 47.07,
+      "prevAvg": 53.88,
+      "delta": -6.81,
       "ratio": 0.87,
       "traffic": null
     },
     {
-      "keyword": "마이크론 테크놀로지",
-      "recentAvg": 49.72,
-      "prevAvg": 50.77,
-      "delta": -1.05,
-      "ratio": 0.98,
+      "keyword": "삼성중공업",
+      "recentAvg": 55.17,
+      "prevAvg": 68.44,
+      "delta": -13.27,
+      "ratio": 0.81,
       "traffic": null
     },
     {
-      "keyword": "lg에너지솔루션",
-      "recentAvg": 35.34,
-      "prevAvg": 36.75,
-      "delta": -1.41,
-      "ratio": 0.96,
-      "traffic": null
-    },
-    {
-      "keyword": "강남",
-      "recentAvg": 69.43,
-      "prevAvg": 88.38,
-      "delta": -18.95,
-      "ratio": 0.79,
+      "keyword": "손아섭",
+      "recentAvg": 50.16,
+      "prevAvg": 75.36,
+      "delta": -25.2,
+      "ratio": 0.67,
       "traffic": null
     }
   ],
   "monitoring": {
-    "total": 52,
+    "total": 57,
     "core": 20,
     "seasonal": 29,
-    "discovered": 3,
+    "discovered": 8,
     "added": [
-      "최우제",
-      "백화점",
-      "은퇴 요원 관리팀",
-      "해군",
-      "청룡영화상"
+      "법학적성시험",
+      "조원태",
+      "이강인",
+      "당구"
     ],
     "dropped": []
   }
