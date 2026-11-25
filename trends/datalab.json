@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T00:36:38.523074+00:00",
+  "updatedAt": "2026-11-25T01:22:12.982674+00:00",
   "source": "naver-datalab-hub+google-trends",
   "period": {
     "start": "2026-11-10",
@@ -1071,14 +1071,6 @@
   ],
   "discovered": [
     {
-      "keyword": "온도",
-      "recentAvg": 50.79,
-      "prevAvg": 38.34,
-      "delta": 12.45,
-      "ratio": 1.32,
-      "traffic": null
-    },
-    {
       "keyword": "윤이나",
       "recentAvg": 42.09,
       "prevAvg": 35.77,
@@ -1087,43 +1079,43 @@
       "traffic": null
     },
     {
-      "keyword": "롯데손해보험",
-      "recentAvg": 74.32,
-      "prevAvg": 70.74,
-      "delta": 3.59,
-      "ratio": 1.05,
-      "traffic": null
-    },
-    {
-      "keyword": "빅테크",
-      "recentAvg": 5.99,
-      "prevAvg": 2.7,
-      "delta": 3.3,
-      "ratio": 2.22,
-      "traffic": null
-    },
-    {
       "keyword": "야닉 시너",
-      "recentAvg": 5.6,
-      "prevAvg": 3.04,
-      "delta": 2.56,
+      "recentAvg": 9.08,
+      "prevAvg": 4.93,
+      "delta": 4.15,
       "ratio": 1.84,
       "traffic": null
     },
     {
       "keyword": "미스터트롯",
-      "recentAvg": 9.33,
-      "prevAvg": 8.39,
-      "delta": 0.95,
+      "recentAvg": 15.13,
+      "prevAvg": 13.6,
+      "delta": 1.53,
       "ratio": 1.11,
       "traffic": null
     },
     {
-      "keyword": "thứ hạng của real madrid gặp psv",
-      "recentAvg": 0.0,
-      "prevAvg": 0.0,
-      "delta": 0.0,
-      "ratio": 0.0,
+      "keyword": "화성 fc",
+      "recentAvg": 2.69,
+      "prevAvg": 1.58,
+      "delta": 1.11,
+      "ratio": 1.7,
+      "traffic": null
+    },
+    {
+      "keyword": "빅테크",
+      "recentAvg": 0.5,
+      "prevAvg": 0.22,
+      "delta": 0.27,
+      "ratio": 2.22,
+      "traffic": null
+    },
+    {
+      "keyword": "국무회의",
+      "recentAvg": 0.81,
+      "prevAvg": 0.72,
+      "delta": 0.09,
+      "ratio": 1.12,
       "traffic": null
     },
     {
@@ -1135,19 +1127,27 @@
       "traffic": null
     },
     {
-      "keyword": "장인화",
-      "recentAvg": 2.47,
-      "prevAvg": 3.44,
-      "delta": -0.96,
-      "ratio": 0.72,
-      "traffic": null
-    },
-    {
       "keyword": "김혜성",
       "recentAvg": 54.28,
       "prevAvg": 55.77,
       "delta": -1.49,
       "ratio": 0.97,
+      "traffic": null
+    },
+    {
+      "keyword": "삼성카드",
+      "recentAvg": 66.61,
+      "prevAvg": 69.92,
+      "delta": -3.31,
+      "ratio": 0.95,
+      "traffic": null
+    },
+    {
+      "keyword": "안세영",
+      "recentAvg": 10.15,
+      "prevAvg": 16.55,
+      "delta": -6.4,
+      "ratio": 0.61,
       "traffic": null
     }
   ]
