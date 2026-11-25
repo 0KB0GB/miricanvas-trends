@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:09:07.368563+00:00",
+  "updatedAt": "2026-11-25T12:34:41.282807+00:00",
   "keywords": [
     {
       "keyword": "폭설",
@@ -13,6 +13,31 @@
     },
     {
       "keyword": "디트로이트 타이거스",
+      "addedAt": "2026-11-25",
+      "lastActive": "2026-11-25"
+    },
+    {
+      "keyword": "최우제",
+      "addedAt": "2026-11-25",
+      "lastActive": "2026-11-25"
+    },
+    {
+      "keyword": "백화점",
+      "addedAt": "2026-11-25",
+      "lastActive": "2026-11-25"
+    },
+    {
+      "keyword": "은퇴 요원 관리팀",
+      "addedAt": "2026-11-25",
+      "lastActive": "2026-11-25"
+    },
+    {
+      "keyword": "해군",
+      "addedAt": "2026-11-25",
+      "lastActive": "2026-11-25"
+    },
+    {
+      "keyword": "청룡영화상",
       "addedAt": "2026-11-25",
       "lastActive": "2026-11-25"
     }

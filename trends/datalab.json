@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:09:07.368809+00:00",
+  "updatedAt": "2026-11-25T12:34:41.283077+00:00",
   "source": "naver-datalab-hub+google-trends",
   "period": {
     "start": "2026-11-10",
@@ -327,34 +327,62 @@
     },
     {
       "keyword": "귤",
-      "recentAvg": 63.66,
-      "prevAvg": 49.15,
-      "delta": 14.51,
+      "recentAvg": 4.03,
+      "prevAvg": 3.11,
+      "delta": 0.92,
       "ratio": 1.3
     },
     {
       "keyword": "김장",
-      "recentAvg": 18.11,
-      "prevAvg": 15.26,
-      "delta": 2.85,
+      "recentAvg": 1.15,
+      "prevAvg": 0.97,
+      "delta": 0.18,
       "ratio": 1.19
     },
     {
       "keyword": "동지",
-      "recentAvg": 54.36,
-      "prevAvg": 39.49,
-      "delta": 14.87,
+      "recentAvg": 3.44,
+      "prevAvg": 2.5,
+      "delta": 0.94,
       "ratio": 1.38
     },
     {
       "keyword": "크리스마스 선물",
-      "recentAvg": 23.15,
-      "prevAvg": 16.17,
-      "delta": 6.98,
+      "recentAvg": 1.46,
+      "prevAvg": 1.02,
+      "delta": 0.44,
       "ratio": 1.43
+    },
+    {
+      "keyword": "폭설",
+      "recentAvg": 68.61,
+      "prevAvg": 12.6,
+      "delta": 56.01,
+      "ratio": 5.44
+    },
+    {
+      "keyword": "한국대학신문",
+      "recentAvg": 44.12,
+      "prevAvg": 42.86,
+      "delta": 1.26,
+      "ratio": 1.03
+    },
+    {
+      "keyword": "디트로이트 타이거스",
+      "recentAvg": 28.57,
+      "prevAvg": 20.76,
+      "delta": 7.81,
+      "ratio": 1.38
     }
   ],
   "risers": [
+    {
+      "keyword": "폭설",
+      "recentAvg": 68.61,
+      "prevAvg": 12.6,
+      "delta": 56.01,
+      "ratio": 5.44
+    },
     {
       "keyword": "눈",
       "recentAvg": 39.99,
@@ -384,25 +412,18 @@
       "ratio": 1.28
     },
     {
-      "keyword": "동지",
-      "recentAvg": 54.36,
-      "prevAvg": 39.49,
-      "delta": 14.87,
-      "ratio": 1.38
-    },
-    {
-      "keyword": "귤",
-      "recentAvg": 63.66,
-      "prevAvg": 49.15,
-      "delta": 14.51,
-      "ratio": 1.3
-    },
-    {
       "keyword": "크리스마스 트리",
       "recentAvg": 82.49,
       "prevAvg": 69.6,
       "delta": 12.89,
       "ratio": 1.19
+    },
+    {
+      "keyword": "디트로이트 타이거스",
+      "recentAvg": 28.57,
+      "prevAvg": 20.76,
+      "delta": 7.81,
+      "ratio": 1.38
     },
     {
       "keyword": "크리스마스",
@@ -412,18 +433,18 @@
       "ratio": 1.27
     },
     {
-      "keyword": "크리스마스 선물",
-      "recentAvg": 23.15,
-      "prevAvg": 16.17,
-      "delta": 6.98,
-      "ratio": 1.43
-    },
-    {
       "keyword": "스키",
       "recentAvg": 21.05,
       "prevAvg": 15.47,
       "delta": 5.58,
       "ratio": 1.36
+    },
+    {
+      "keyword": "붕어빵",
+      "recentAvg": 26.08,
+      "prevAvg": 21.56,
+      "delta": 4.51,
+      "ratio": 1.21
     }
   ],
   "hottest": [
@@ -477,18 +498,18 @@
       "ratio": 1.6
     },
     {
-      "keyword": "귤",
-      "recentAvg": 63.66,
-      "prevAvg": 49.15,
-      "delta": 14.51,
-      "ratio": 1.3
+      "keyword": "폭설",
+      "recentAvg": 68.61,
+      "prevAvg": 12.6,
+      "delta": 56.01,
+      "ratio": 5.44
     },
     {
-      "keyword": "동지",
-      "recentAvg": 54.36,
-      "prevAvg": 39.49,
-      "delta": 14.87,
-      "ratio": 1.38
+      "keyword": "한국대학신문",
+      "recentAvg": 44.12,
+      "prevAvg": 42.86,
+      "delta": 1.26,
+      "ratio": 1.03
     },
     {
       "keyword": "눈",
@@ -816,31 +837,52 @@
     },
     {
       "keyword": "귤",
-      "recentAvg": 68.85,
-      "prevAvg": 55.45,
-      "delta": 13.4,
+      "recentAvg": 4.46,
+      "prevAvg": 3.59,
+      "delta": 0.87,
       "ratio": 1.24
     },
     {
       "keyword": "김장",
-      "recentAvg": 18.5,
-      "prevAvg": 6.81,
-      "delta": 11.68,
+      "recentAvg": 1.2,
+      "prevAvg": 0.44,
+      "delta": 0.76,
       "ratio": 2.71
     },
     {
       "keyword": "동지",
-      "recentAvg": 59.06,
-      "prevAvg": 24.12,
-      "delta": 34.94,
+      "recentAvg": 3.82,
+      "prevAvg": 1.56,
+      "delta": 2.26,
       "ratio": 2.45
     },
     {
       "keyword": "크리스마스 선물",
-      "recentAvg": 21.97,
-      "prevAvg": 4.31,
-      "delta": 17.65,
+      "recentAvg": 1.42,
+      "prevAvg": 0.28,
+      "delta": 1.14,
       "ratio": 5.09
+    },
+    {
+      "keyword": "폭설",
+      "recentAvg": 37.99,
+      "prevAvg": 1.83,
+      "delta": 36.16,
+      "ratio": 20.79
+    },
+    {
+      "keyword": "한국대학신문",
+      "recentAvg": 68.17,
+      "prevAvg": 81.23,
+      "delta": -13.06,
+      "ratio": 0.84
+    },
+    {
+      "keyword": "디트로이트 타이거스",
+      "recentAvg": 35.61,
+      "prevAvg": 50.88,
+      "delta": -15.27,
+      "ratio": 0.7
     }
   ],
   "weeklyRisers": [
@@ -866,11 +908,11 @@
       "ratio": 2.3
     },
     {
-      "keyword": "동지",
-      "recentAvg": 59.06,
-      "prevAvg": 24.12,
-      "delta": 34.94,
-      "ratio": 2.45
+      "keyword": "폭설",
+      "recentAvg": 37.99,
+      "prevAvg": 1.83,
+      "delta": 36.16,
+      "ratio": 20.79
     },
     {
       "keyword": "눈",
@@ -894,118 +936,120 @@
       "ratio": 2.81
     },
     {
-      "keyword": "크리스마스 선물",
-      "recentAvg": 21.97,
-      "prevAvg": 4.31,
-      "delta": 17.65,
-      "ratio": 5.09
+      "keyword": "손난로",
+      "recentAvg": 17.58,
+      "prevAvg": 7.42,
+      "delta": 10.15,
+      "ratio": 2.37
     },
     {
-      "keyword": "귤",
-      "recentAvg": 68.85,
-      "prevAvg": 55.45,
-      "delta": 13.4,
-      "ratio": 1.24
+      "keyword": "붕어빵",
+      "recentAvg": 33.57,
+      "prevAvg": 24.08,
+      "delta": 9.49,
+      "ratio": 1.39
     },
     {
-      "keyword": "김장",
-      "recentAvg": 18.5,
-      "prevAvg": 6.81,
-      "delta": 11.68,
-      "ratio": 2.71
+      "keyword": "프레임",
+      "recentAvg": 30.9,
+      "prevAvg": 24.08,
+      "delta": 6.81,
+      "ratio": 1.28
     }
   ],
   "discovered": [
     {
-      "keyword": "폭설",
-      "recentAvg": 68.61,
-      "prevAvg": 12.6,
-      "delta": 56.01,
-      "ratio": 5.44,
+      "keyword": "최우제",
+      "recentAvg": 49.3,
+      "prevAvg": 7.64,
+      "delta": 41.66,
+      "ratio": 6.45,
       "traffic": null
     },
     {
-      "keyword": "한국대학신문",
-      "recentAvg": 4.77,
-      "prevAvg": 4.63,
-      "delta": 0.14,
-      "ratio": 1.03,
+      "keyword": "백화점",
+      "recentAvg": 51.55,
+      "prevAvg": 45.8,
+      "delta": 5.75,
+      "ratio": 1.13,
       "traffic": null
     },
     {
-      "keyword": "디트로이트 타이거스",
-      "recentAvg": 0.05,
-      "prevAvg": 0.03,
-      "delta": 0.01,
+      "keyword": "은퇴 요원 관리팀",
+      "recentAvg": 33.88,
+      "prevAvg": 29.38,
+      "delta": 4.5,
+      "ratio": 1.15,
+      "traffic": null
+    },
+    {
+      "keyword": "해군",
+      "recentAvg": 35.81,
+      "prevAvg": 35.21,
+      "delta": 0.6,
+      "ratio": 1.02,
+      "traffic": null
+    },
+    {
+      "keyword": "청룡영화상",
+      "recentAvg": 1.75,
+      "prevAvg": 1.27,
+      "delta": 0.48,
       "ratio": 1.38,
       "traffic": null
     },
     {
-      "keyword": "김천(구미)",
-      "recentAvg": 0.0,
-      "prevAvg": 0.0,
-      "delta": 0.0,
-      "ratio": 0.0,
+      "keyword": "페이즈",
+      "recentAvg": 6.42,
+      "prevAvg": 6.16,
+      "delta": 0.26,
+      "ratio": 1.04,
       "traffic": null
     },
     {
-      "keyword": "южная корея",
-      "recentAvg": 0.0,
-      "prevAvg": 0.0,
-      "delta": 0.0,
-      "ratio": 0.0,
-      "traffic": null
-    },
-    {
-      "keyword": "디에고 시메오네",
-      "recentAvg": 0.04,
-      "prevAvg": 0.06,
+      "keyword": "경주마",
+      "recentAvg": 0.13,
+      "prevAvg": 0.15,
       "delta": -0.02,
-      "ratio": 0.68,
+      "ratio": 0.87,
       "traffic": null
     },
     {
-      "keyword": "연금 개혁",
-      "recentAvg": 0.92,
-      "prevAvg": 0.96,
-      "delta": -0.04,
+      "keyword": "마이크론 테크놀로지",
+      "recentAvg": 49.72,
+      "prevAvg": 50.77,
+      "delta": -1.05,
+      "ratio": 0.98,
+      "traffic": null
+    },
+    {
+      "keyword": "lg에너지솔루션",
+      "recentAvg": 35.34,
+      "prevAvg": 36.75,
+      "delta": -1.41,
       "ratio": 0.96,
       "traffic": null
     },
     {
-      "keyword": "서훈",
-      "recentAvg": 1.66,
-      "prevAvg": 2.55,
-      "delta": -0.9,
-      "ratio": 0.65,
-      "traffic": null
-    },
-    {
-      "keyword": "3기 신도시",
-      "recentAvg": 18.9,
-      "prevAvg": 20.18,
-      "delta": -1.28,
-      "ratio": 0.94,
-      "traffic": null
-    },
-    {
-      "keyword": "반도체",
-      "recentAvg": 69.61,
-      "prevAvg": 73.2,
-      "delta": -3.58,
-      "ratio": 0.95,
+      "keyword": "강남",
+      "recentAvg": 69.43,
+      "prevAvg": 88.38,
+      "delta": -18.95,
+      "ratio": 0.79,
       "traffic": null
     }
   ],
   "monitoring": {
-    "total": 49,
+    "total": 52,
     "core": 20,
     "seasonal": 29,
-    "discovered": 0,
+    "discovered": 3,
     "added": [
-      "폭설",
-      "한국대학신문",
-      "디트로이트 타이거스"
+      "최우제",
+      "백화점",
+      "은퇴 요원 관리팀",
+      "해군",
+      "청룡영화상"
     ],
     "dropped": []
   }
