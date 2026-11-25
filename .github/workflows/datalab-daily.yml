@@ -1,6 +1,7 @@
 # 저장소 안에 넣는 위치: .github/workflows/datalab-daily.yml
 # 매일 밤 11시(KST)에 fetch_datalab.py를 실행해
-# trends/datalab.json을 갱신하고 저장소에 다시 저장합니다.
+# trends/datalab.json과 trends/keywords.json을 갱신하고 저장소에 다시 저장합니다.
+# keywords.json은 모니터링 목록(발견 단어 이어받기) 상태 파일입니다.
 # GitHub 스케줄러는 정확하지 않습니다(best-effort). 정각(0분)은 가장
 # 붐비는 시간이라 몇 시간씩 늦거나 아예 안 뜰 수도 있습니다.
 # 그래서 밤 11시 17분(홀수 분)에 실행해, 늦어져도 아침까지 완료되게 합니다.
@@ -34,6 +35,6 @@ jobs:
         run: |
           git config user.name "datalab-bot"
           git config user.email "datalab-bot@users.noreply.github.com"
-          git add trends/datalab.json
+          git add trends/datalab.json trends/keywords.json
           git diff --cached --quiet || git commit -m "datalab $(date -u +%F)"
           git push
