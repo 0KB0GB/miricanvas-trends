@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-25T23:08:28.188995+00:00",
+  "updatedAt": "2026-11-26T23:02:46.525083+00:00",
   "keywords": [
     {
       "keyword": "폭설",
       "addedAt": "2026-11-25",
-      "lastActive": "2026-11-25"
+      "lastActive": "2026-11-26"
     },
     {
       "keyword": "한국대학신문",
@@ -19,7 +19,7 @@
     {
       "keyword": "최우제",
       "addedAt": "2026-11-25",
-      "lastActive": "2026-11-25"
+      "lastActive": "2026-11-26"
     },
     {
       "keyword": "백화점",
@@ -44,22 +44,37 @@
     {
       "keyword": "법학적성시험",
       "addedAt": "2026-11-25",
-      "lastActive": "2026-11-25"
+      "lastActive": "2026-11-26"
     },
     {
       "keyword": "조원태",
       "addedAt": "2026-11-25",
-      "lastActive": "2026-11-25"
+      "lastActive": "2026-11-26"
     },
     {
       "keyword": "이강인",
       "addedAt": "2026-11-25",
-      "lastActive": "2026-11-25"
+      "lastActive": "2026-11-26"
     },
     {
       "keyword": "당구",
       "addedAt": "2026-11-25",
-      "lastActive": "2026-11-25"
+      "lastActive": "2026-11-26"
+    },
+    {
+      "keyword": "탄핵",
+      "addedAt": "2026-11-26",
+      "lastActive": "2026-11-26"
+    },
+    {
+      "keyword": "배구",
+      "addedAt": "2026-11-26",
+      "lastActive": "2026-11-26"
+    },
+    {
+      "keyword": "배당",
+      "addedAt": "2026-11-26",
+      "lastActive": "2026-11-26"
     }
   ]
 }
