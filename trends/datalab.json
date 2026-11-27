@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:36:37.226875+00:00",
+  "updatedAt": "2026-11-27T22:45:02.062215+00:00",
   "source": "naver-datalab-hub+google-trends",
   "period": {
     "start": "2026-11-12",
@@ -432,31 +432,59 @@
     },
     {
       "keyword": "당구",
-      "recentAvg": 3.4,
-      "prevAvg": 2.41,
-      "delta": 0.98,
+      "recentAvg": 0.17,
+      "prevAvg": 0.12,
+      "delta": 0.05,
       "ratio": 1.41
     },
     {
       "keyword": "탄핵",
-      "recentAvg": 4.67,
-      "prevAvg": 1.27,
-      "delta": 3.4,
+      "recentAvg": 0.23,
+      "prevAvg": 0.06,
+      "delta": 0.17,
       "ratio": 3.68
     },
     {
       "keyword": "배구",
-      "recentAvg": 78.95,
-      "prevAvg": 69.36,
-      "delta": 9.59,
+      "recentAvg": 3.91,
+      "prevAvg": 3.43,
+      "delta": 0.47,
       "ratio": 1.14
     },
     {
       "keyword": "배당",
-      "recentAvg": 0.59,
-      "prevAvg": 0.55,
-      "delta": 0.04,
+      "recentAvg": 0.03,
+      "prevAvg": 0.03,
+      "delta": 0.0,
       "ratio": 1.08
+    },
+    {
+      "keyword": "굿파트너2",
+      "recentAvg": 41.94,
+      "prevAvg": 5.65,
+      "delta": 36.29,
+      "ratio": 7.42
+    },
+    {
+      "keyword": "파기환송",
+      "recentAvg": 17.33,
+      "prevAvg": 0.36,
+      "delta": 16.97,
+      "ratio": 47.91
+    },
+    {
+      "keyword": "연애남매2",
+      "recentAvg": 10.04,
+      "prevAvg": 8.4,
+      "delta": 1.64,
+      "ratio": 1.19
+    },
+    {
+      "keyword": "강지영",
+      "recentAvg": 24.34,
+      "prevAvg": 18.2,
+      "delta": 6.14,
+      "ratio": 1.34
     }
   ],
   "risers": [
@@ -475,11 +503,25 @@
       "ratio": 2.4
     },
     {
+      "keyword": "굿파트너2",
+      "recentAvg": 41.94,
+      "prevAvg": 5.65,
+      "delta": 36.29,
+      "ratio": 7.42
+    },
+    {
       "keyword": "눈",
       "recentAvg": 37.65,
       "prevAvg": 10.82,
       "delta": 26.83,
       "ratio": 3.48
+    },
+    {
+      "keyword": "파기환송",
+      "recentAvg": 17.33,
+      "prevAvg": 0.36,
+      "delta": 16.97,
+      "ratio": 47.91
     },
     {
       "keyword": "송년회",
@@ -510,25 +552,11 @@
       "ratio": 2.19
     },
     {
-      "keyword": "배구",
-      "recentAvg": 78.95,
-      "prevAvg": 69.36,
-      "delta": 9.59,
-      "ratio": 1.14
-    },
-    {
       "keyword": "크리스마스",
       "recentAvg": 39.2,
       "prevAvg": 30.38,
       "delta": 8.82,
       "ratio": 1.29
-    },
-    {
-      "keyword": "손난로",
-      "recentAvg": 16.03,
-      "prevAvg": 9.03,
-      "delta": 7.0,
-      "ratio": 1.78
     }
   ],
   "hottest": [
@@ -552,13 +580,6 @@
       "prevAvg": 88.46,
       "delta": -7.64,
       "ratio": 0.91
-    },
-    {
-      "keyword": "배구",
-      "recentAvg": 78.95,
-      "prevAvg": 69.36,
-      "delta": 9.59,
-      "ratio": 1.14
     },
     {
       "keyword": "핫팩",
@@ -594,6 +615,13 @@
       "prevAvg": 82.57,
       "delta": -10.73,
       "ratio": 0.87
+    },
+    {
+      "keyword": "굿파트너2",
+      "recentAvg": 41.94,
+      "prevAvg": 5.65,
+      "delta": 36.29,
+      "ratio": 7.42
     },
     {
       "keyword": "크리스마스",
@@ -1026,31 +1054,59 @@
     },
     {
       "keyword": "당구",
-      "recentAvg": 3.63,
-      "prevAvg": 8.12,
-      "delta": -4.49,
+      "recentAvg": 0.4,
+      "prevAvg": 0.88,
+      "delta": -0.49,
       "ratio": 0.45
     },
     {
       "keyword": "탄핵",
-      "recentAvg": 2.93,
-      "prevAvg": 1.58,
-      "delta": 1.35,
+      "recentAvg": 0.32,
+      "prevAvg": 0.17,
+      "delta": 0.15,
       "ratio": 1.85
     },
     {
       "keyword": "배구",
-      "recentAvg": 80.85,
-      "prevAvg": 42.13,
-      "delta": 38.72,
+      "recentAvg": 8.81,
+      "prevAvg": 4.59,
+      "delta": 4.22,
       "ratio": 1.92
     },
     {
       "keyword": "배당",
-      "recentAvg": 0.65,
-      "prevAvg": 0.78,
-      "delta": -0.13,
+      "recentAvg": 0.07,
+      "prevAvg": 0.08,
+      "delta": -0.01,
       "ratio": 0.83
+    },
+    {
+      "keyword": "굿파트너2",
+      "recentAvg": 37.63,
+      "prevAvg": 3.53,
+      "delta": 34.09,
+      "ratio": 10.65
+    },
+    {
+      "keyword": "파기환송",
+      "recentAvg": 16.66,
+      "prevAvg": 1.78,
+      "delta": 14.88,
+      "ratio": 9.38
+    },
+    {
+      "keyword": "연애남매2",
+      "recentAvg": 28.73,
+      "prevAvg": 6.58,
+      "delta": 22.15,
+      "ratio": 4.37
+    },
+    {
+      "keyword": "강지영",
+      "recentAvg": 63.63,
+      "prevAvg": 87.22,
+      "delta": -23.59,
+      "ratio": 0.73
     }
   ],
   "weeklyRisers": [
@@ -1083,18 +1139,18 @@
       "ratio": 24.1
     },
     {
-      "keyword": "배구",
-      "recentAvg": 80.85,
-      "prevAvg": 42.13,
-      "delta": 38.72,
-      "ratio": 1.92
-    },
-    {
       "keyword": "최우제",
       "recentAvg": 37.21,
       "prevAvg": 2.42,
       "delta": 34.78,
       "ratio": 15.36
+    },
+    {
+      "keyword": "굿파트너2",
+      "recentAvg": 37.63,
+      "prevAvg": 3.53,
+      "delta": 34.09,
+      "ratio": 10.65
     },
     {
       "keyword": "눈",
@@ -1118,48 +1174,56 @@
       "ratio": 3.2
     },
     {
-      "keyword": "붕어빵",
-      "recentAvg": 36.72,
-      "prevAvg": 24.08,
-      "delta": 12.64,
-      "ratio": 1.52
+      "keyword": "연애남매2",
+      "recentAvg": 28.73,
+      "prevAvg": 6.58,
+      "delta": 22.15,
+      "ratio": 4.37
     }
   ],
   "discovered": [
     {
-      "keyword": "굿파트너2",
-      "recentAvg": 41.94,
-      "prevAvg": 5.65,
-      "delta": 36.29,
-      "ratio": 7.42,
+      "keyword": "한지민",
+      "recentAvg": 19.57,
+      "prevAvg": 12.05,
+      "delta": 7.52,
+      "ratio": 1.62,
       "traffic": null
     },
     {
-      "keyword": "파기환송",
-      "recentAvg": 17.33,
-      "prevAvg": 0.36,
-      "delta": 16.97,
-      "ratio": 47.91,
+      "keyword": "한국은행 기준금리",
+      "recentAvg": 4.41,
+      "prevAvg": 2.41,
+      "delta": 2.0,
+      "ratio": 1.83,
       "traffic": null
     },
     {
-      "keyword": "연애남매2",
-      "recentAvg": 10.04,
-      "prevAvg": 8.4,
-      "delta": 1.64,
-      "ratio": 1.19,
+      "keyword": "연금",
+      "recentAvg": 2.74,
+      "prevAvg": 2.57,
+      "delta": 0.17,
+      "ratio": 1.07,
       "traffic": null
     },
     {
-      "keyword": "강지영",
-      "recentAvg": 1.34,
-      "prevAvg": 1.0,
-      "delta": 0.34,
-      "ratio": 1.34,
+      "keyword": "thời tiết",
+      "recentAvg": 0.03,
+      "prevAvg": 0.0,
+      "delta": 0.03,
+      "ratio": null,
       "traffic": null
     },
     {
-      "keyword": "온두라스 u-17 대 일본 u-17",
+      "keyword": "국제 축구 연맹",
+      "recentAvg": 0.05,
+      "prevAvg": 0.04,
+      "delta": 0.02,
+      "ratio": 1.43,
+      "traffic": null
+    },
+    {
+      "keyword": "베르더 대 묀헨글라트바흐",
       "recentAvg": 0.0,
       "prevAvg": 0.0,
       "delta": 0.0,
@@ -1167,56 +1231,49 @@
       "traffic": null
     },
     {
-      "keyword": "명서현",
+      "keyword": "nottm forest vs chelsea",
       "recentAvg": 0.0,
-      "prevAvg": 0.01,
-      "delta": -0.0,
-      "ratio": 0.56,
+      "prevAvg": 0.0,
+      "delta": 0.0,
+      "ratio": 0.0,
       "traffic": null
     },
     {
-      "keyword": "박정수",
-      "recentAvg": 0.19,
-      "prevAvg": 0.22,
-      "delta": -0.03,
-      "ratio": 0.88,
+      "keyword": "시장",
+      "recentAvg": 2.93,
+      "prevAvg": 2.95,
+      "delta": -0.02,
+      "ratio": 0.99,
       "traffic": null
     },
     {
-      "keyword": "신지아",
-      "recentAvg": 0.98,
-      "prevAvg": 1.1,
-      "delta": -0.12,
-      "ratio": 0.89,
+      "keyword": "부동산",
+      "recentAvg": 84.8,
+      "prevAvg": 89.38,
+      "delta": -4.58,
+      "ratio": 0.95,
       "traffic": null
     },
     {
-      "keyword": "금새록",
-      "recentAvg": 10.68,
-      "prevAvg": 12.38,
-      "delta": -1.7,
-      "ratio": 0.86,
-      "traffic": null
-    },
-    {
-      "keyword": "박서진",
-      "recentAvg": 19.13,
-      "prevAvg": 24.14,
-      "delta": -5.01,
-      "ratio": 0.79,
+      "keyword": "마운자로",
+      "recentAvg": 46.37,
+      "prevAvg": 56.51,
+      "delta": -10.14,
+      "ratio": 0.82,
       "traffic": null
     }
   ],
   "monitoring": {
-    "total": 64,
+    "total": 68,
     "core": 20,
     "seasonal": 29,
-    "discovered": 15,
+    "discovered": 19,
     "added": [
-      "굿파트너2",
-      "파기환송",
-      "연애남매2",
-      "강지영"
+      "한지민",
+      "한국은행 기준금리",
+      "연금",
+      "thời tiết",
+      "국제 축구 연맹"
     ],
     "dropped": []
   }
